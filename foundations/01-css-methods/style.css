@@ -6,12 +6,6 @@ div {
   font-weight: 700;  /* 700 = bold */
 }
 
-p {
-  background-color: #00ff00;
-  color: white;
-  font-size: 18px;
-}
-
 button {
   background-color: #f0ac40;
   font-size: 18px;
