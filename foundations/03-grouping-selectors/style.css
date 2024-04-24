@@ -3,3 +3,7 @@
   color: white;
   font-weight: 700; /* 700 = bold */  
 }
+
+.no-click-me {
+  background-color: #e9e56e;
+}
