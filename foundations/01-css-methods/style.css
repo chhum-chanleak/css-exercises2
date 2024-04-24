@@ -5,3 +5,9 @@ div {
   text-align: center;
   font-weight: 700;  /* 700 = bold */
 }
+
+p {
+  background-color: #00ff00;
+  color: white;
+  font-size: 18px;
+}
